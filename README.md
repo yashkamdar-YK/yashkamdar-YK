@@ -1,7 +1,7 @@
 # 💫Hi there! 👋 I'm Yash Kamdar
 Welcome to my GitHub profile! I'm a Front-End Developer with a focus on building responsive, user-friendly web applications.<br>
 ## 🚀 About Me
-👨‍💻 I specialize in building dynamic and responsive web applications using modern front-end technologies.<br>🎨 I’m passionate about UI/UX design, ensuring that the apps I build not only function well but also look great!<br>🌱 I’m currently learning TypeScript and diving deeper into GraphQL.<br>👟 I’ve built a complete E-commerce Shoes Website using React, which you can check out here.<br>🔎 I love solving problems, such as implementing efficient search functionality and optimizing performance in web applications.
+👨‍💻 I specialize in building dynamic and responsive web applications using modern front-end technologies.<br>🎨 I’m passionate about UI/UX design, ensuring that the apps I build not only function well but also look great!<br>🌱 I’m currently learning TypeScript and diving deeper into AI.<br>👟 I’ve built a complete E-commerce Shoes Website using React, which you can check out here.<br>🔎 I love solving problems, such as implementing efficient search functionality and optimizing performance in web applications.
 
 
 ## 🌐 Socials:
